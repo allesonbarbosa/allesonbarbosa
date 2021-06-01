@@ -28,3 +28,11 @@ Here you can find some of my projects.
 
 <b>Connect with me:</b>
 
+<p>
+<a href="https://www.instagram.com/alle_moura94/">
+<img align="left" alt="logo do instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alleson-de-moura-barbosa-193802210/">
+<img align="left" alt="logo do LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
